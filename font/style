@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Passenger Sans';
+    src: local('Passenger Sans Medium'), local('Passenger-Sans-Medium'),
+        url('PassengerSans-Medium.woff2') format('woff2'),
+        url('PassengerSans-Medium.woff') format('woff'),
+        url('PassengerSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
